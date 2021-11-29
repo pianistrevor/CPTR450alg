@@ -1,5 +1,5 @@
 # CPTR450alg
-An efficient algorithm designed for a senior class at WWU
+An efficient algorithm designed for a senior class at WWU. A sample program is provided.
 
 To call, define globals of 4 equally-sized double-precision arrays called ARRAYx (x is 1-4), int SIZE_N (the size of each array), double TARGET (the target to be searched for), and double EPSILON (the allowed error). In the future, I may add an update that includes these as parameters to avoid the globals problem, but it was the easiest implementation to start.
 
